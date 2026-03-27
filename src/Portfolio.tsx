@@ -18,7 +18,7 @@ const PROJECTS = [
     emoji: "🍹",
     color: "#ffd6e7",
     year: "2026",
-    link: 'https://www.jessicaciarelli.com/project/tipsy'
+    link: 'https://the-thirsty-endpoint.netlify.app'
   },
   {
     id: 2,
@@ -28,7 +28,7 @@ const PROJECTS = [
     emoji: "🌲",
     color: "#c8f0d8",
     year: "2026",
-    link: 'https://www.jessicaciarelli.com/project/national-parks'
+    link: 'https://national-parks-jc.netlify.app'
   },
   // {
   //   id: 3,
