@@ -12,7 +12,7 @@ const SKILLS = [
 const PROJECTS = [
   {
     id: 1,
-    title: "The Tipsy Endpoint",
+    title: "The Thirsty Endpoint",
     description: "A React & Typescript App using the API The Drinks DB to display and search different cocktails. Features ingredients, instructions, and images.",
     tags: ["React", "TypeScript", "API"],
     emoji: "🍹",
